@@ -29,6 +29,10 @@ To make sure you're both a business and culture fit.
 
 Now. 
 
+**Is my salary negotiable?**
+
+No. We pay everyone in the company equally. All Jr Devs are paid the same, all the Sr devs are paid the same, etc. Your salary depends only on your role. 
+
 **Can I do Round 2 in AngularJS instead?**
 
 No. ReactJs is easy to learn. 3 days is enough to learn ReactJS from scratch and implement the project. 
