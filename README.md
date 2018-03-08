@@ -26,25 +26,33 @@ To make sure you're both a business and culture fit.
 ### FAQ
 
 **When do I start with Round 1?**
+
 Now. 
 
 **Can I do Round 2 in AngularJS instead?**
+
 No. ReactJs is easy to learn. 3 days is enough to learn ReactJS from scratch and implement the project. 
 
 **Where do I send my GitHub link?**
+
 Email us at interviews@hackerbay.io
 
 **Is 3 day time period mentioned is for each round (Round 1 and Round 2) or both combined**
+
 It's for each Round. 3 Days for Round 1 and 3 Days for Round 2. In total, you have 6 days to finish both the rounds. 
 
 **When will I know if I'm selected?**
+
 It depends on you. As soon as you finish both the rounds. We'll have 2 Skype calls next business day and we'll let you know about our decision on the same day. Date of Joining depends on your notice period with your current place of work. We usually want engineers join us as soon as they can. If you don't have a notice period, you can join as soon as we make a decision and start the onboarding process. 
 
 **Can I know more about the company?**
+
 Sure, Here are few things you can check out:
 
 Website: https://hackerbay.io
+
 Employee Handbook: http://handbook.hackerbay.io
+
 More Info: Email interviews@hackerbay.io
 
 
