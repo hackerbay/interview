@@ -51,7 +51,7 @@ Sure, Here are few things you can check out:
 
 Website: https://hackerbay.io
 
-Employee Handbook: http://handbook.hackerbay.io
+Employee Handbook: https://handbook.hackerbay.io
 
 More Info: Email interviews@hackerbay.io
 
