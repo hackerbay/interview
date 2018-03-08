@@ -51,6 +51,8 @@ Sure, Here are few things you can check out:
 
 Website: https://hackerbay.io
 
+Our Products: CloudBoost.io, Fyipe.com, Genosyn.com
+
 Employee Handbook: https://handbook.hackerbay.io
 
 More Info: Email interviews@hackerbay.io
