@@ -17,7 +17,34 @@ Round 1: NodeJS Task Round: https://github.com/hackerbay/interview-backend-task 
 Round 2: ReactJS Round: https://github.com/hackerbay/interview-frontend-task Round 2 usually takes 3 hours to complete, but we give you 3 days to do so. Your deadline is 3 days from today. when you’re done, send us the gitHub link. 
 
 Round 3: A call with the CTO. 
+This will be a tech screening. You'll be asked to code on screen and talk about projects you've worked in the past. 
 
 Round 4: A call with the CEO. 
+To make sure you're both a business and culture fit. 
 
-You can also read the Employee Handbook to see how we work: http://handbook.hackerbay.io
+
+### FAQ
+
+**When do I start with Round 1?**
+Now. 
+
+**Can I do Round 2 in AngularJS instead?**
+No. ReactJs is easy to learn. 3 days is enough to learn ReactJS from scratch and implement the project. 
+
+**Where do I send my GitHub link?**
+Email us at interviews@hackerbay.io
+
+**Is 3 day time period mentioned is for each round (Round 1 and Round 2) or both combined**
+It's for each Round. 3 Days for Round 1 and 3 Days for Round 2. In total, you have 6 days to finish both the rounds. 
+
+**When will I know if I'm selected?**
+It depends on you. As soon as you finish both the rounds. We'll have 2 Skype calls next business day and we'll let you know about our decision on the same day. Date of Joining depends on your notice period with your current place of work. We usually want engineers join us as soon as they can. If you don't have a notice period, you can join as soon as we make a decision and start the onboarding process. 
+
+**Can I know more about the company?**
+Sure, Here are few things you can check out:
+
+Website: https://hackerbay.io
+Employee Handbook: http://handbook.hackerbay.io
+More Info: Email interviews@hackerbay.io
+
+
