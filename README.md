@@ -25,6 +25,14 @@ To make sure you're both a business and culture fit.
 
 ### FAQ
 
+**Where are you based?**
+
+Technically, NYC. Honestly, it doesn't matter. You can work out of anywhere you like. This job is remote.  
+
+**Is this job full time?**
+
+Yes. We're NOT looking for part time employees. 
+
 **When do I start with Round 1?**
 
 Now. 
