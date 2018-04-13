@@ -33,6 +33,10 @@ Technically, NYC. Honestly, it doesn't matter. You can work out of anywhere you 
 
 Yes. We're NOT looking for part time employees. 
 
+**What do I need to work?**
+
+A solid laptop with a stable and a fast internet connection. That's quite about it. 
+
 **When do I start with Round 1?**
 
 Now. 
