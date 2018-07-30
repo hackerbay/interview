@@ -16,11 +16,11 @@ There are three rounds to this interview:
 
 **Round 2:** ReactJS Round: https://github.com/hackerbay/interview-frontend-task Round 2 usually takes 3 hours to complete, but we give you 3 days to do so. Your deadline is 3 days from today. when you’re done, send us the gitHub link. 
 
-**Round 3:** A call with the CTO. 
-This will be a tech screening. You'll be asked to code on screen and talk about projects you've worked in the past. 
-
-**Round 4:** A call with the CEO. 
-To make sure you're both a business and culture fit. 
+**Round 3:** A call with the CEO. Please keep 2 hours free for this call. 
+This will be a tech screening. You'll be tested on: 
+- Live Programming (1 hr of live programming) 
+- Tech Q&A (~15 mins)
+- Culture fit.  (~15 mins) 
 
 
 ### FAQ
