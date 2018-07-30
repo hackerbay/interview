@@ -35,7 +35,7 @@ Yes. We're NOT looking for part time employees.
 
 **Can I work with you if I'm a student?**
 
-No. ONLY work on these interview tasks if you have NO OTHER commitments. We have tried this before and this doesn't work. If you are a sudent, you should check out (HackerBay University)[https://hackerbayuniversity.com]
+No. ONLY work on these interview tasks if you have NO OTHER commitments. We have tried this before and this doesn't work. If you are a sudent, you should check out [HackerBay University](https://hackerbayuniversity.com)
 
 **What do I need to work?**
 
