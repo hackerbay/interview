@@ -22,6 +22,8 @@ This will be a tech screening. You'll be tested on:
 - Tech Q&A (~15 mins)
 - Culture fit.  (~15 mins) 
 
+**Important**: During this round. Please be on your PC and not on your phone. Your interview will be cancelled immidiately if you call us with your phone. 
+
 
 ### FAQ
 
