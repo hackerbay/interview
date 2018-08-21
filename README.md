@@ -22,7 +22,11 @@ This will be a tech screening. You'll be tested on:
 - Tech Q&A (~15 mins)
 - Culture fit.  (~15 mins) 
 
-**Important**: During this round. Please be on your PC and not on your phone. Your interview will be cancelled immidiately if you call us with your phone. 
+**Important**: During this round:
+ - Please be on your PC and not on your phone. Your interview will be cancelled immidiately if you call us with your phone.
+ - Please also make sure you're on atleast 1 mbps internet connection and you have tested your audio and video through a Skype test call. If your audio or video connection fails during the interview. You will be disqualified. 
+ - Make sure you're the only one person in the room. We dont want to hear others when we interview you. 
+ - Make sure you can screenshare on Skype. Do not call us from Skype Web. Download a desktop client and be ready for a call. 
 
 
 ### FAQ
