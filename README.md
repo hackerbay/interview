@@ -39,6 +39,10 @@ Technically, NYC. Honestly, it doesn't matter. You can work out of anywhere you 
 
 Yes. We're NOT looking for part time employees. 
 
+**What are the minimum requirements to work at HackerBay?**
+
+An Ubuntu or a MacOS machine with atleast 8 GB of RAM and 2 mbps internet connectivity at all times. If you do not have a machine reliable enough to work that meets these requirements. Please do not apply. 
+
 **Can I work with you if I'm a student?**
 
 No. ONLY work on these interview tasks if you have NO OTHER commitments. We have tried this before and this doesn't work. If you are a sudent, you should check out [HackerBay University](https://hackerbayuniversity.com)
