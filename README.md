@@ -124,3 +124,8 @@ End of every month. If you're not based out of United States, it takes a week fo
 **Is the company profitable?**   
 
 Yes. We are. We aren't going anywhere. You'll be safe with us. 
+
+## EQUAL OPPORTUNITY EMPLOYER
+
+HackerBay, Inc. is an equal opportunity employer. All aspects of employment including the decision to hire, promote, discipline, or discharge, will be based on merit, competence, performance, and business needs. We do not discriminate on the basis of race, color, religion, marital status, age, national origin, ancestry, physical or mental disability, medical condition, pregnancy, genetic information, gender, sexual orientation, gender identity or expression.
+
