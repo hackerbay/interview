@@ -1,4 +1,6 @@
-## HackerBay Interview. 
+![HackerBay Logo](https://raw.githubusercontent.com/hackerbay/interview/master/companylogo.png)
+
+# HackerBay Interview. 
 
 Thank you for interviewing with HackerBay. Please note this is a full time job and you’re required to work 40 hrs/week. You’ll not be legally allowed to work for anyone else when you’re working with us. 
 
