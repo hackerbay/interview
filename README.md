@@ -1,4 +1,4 @@
-![HackerBay Logo](https://raw.githubusercontent.com/hackerbay/interview/master/companylogo.png | width=100)
+<img src="https://raw.githubusercontent.com/hackerbay/interview/master/companylogo.png" alt="HackerBay Logo" width="100" height="100">
 
 # HackerBay Interview. 
 
