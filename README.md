@@ -18,11 +18,14 @@ There are three rounds to this interview:
 
 **Round 2:** ReactJS Round: https://github.com/hackerbay/interview-frontend-task Round 2 usually takes 3 hours to complete, but we give you 3 days to do so. Your deadline is 3 days from today. when you’re done, send us the gitHub link. 
 
-**Round 3:** A call with the CEO. Please keep 2 hours free for this call. 
+**Round 3:** Please keep 2-3 hours free for this call. 
 This will be a tech screening. You'll be tested on: 
-- Live Programming (1 hr of live programming) 
+- Live Programming & Algorithm Design (2-3 hrs of programming) 
+
+**Round 4:** A call with the CEO. Please keep 45 mins free for this call. 
 - Tech Q&A (~15 mins)
 - Culture fit.  (~15 mins) 
+- Misc (~15 mins)
 
 **Important**: During this round:
  - Please be on your PC and not on your phone. Your interview will be cancelled immidiately if you call us with your phone.
@@ -127,7 +130,7 @@ End of every month. If you're not based out of United States, it takes a week fo
 
 Yes. We are. We aren't going anywhere. You'll be safe with us. 
 
-## EQUAL OPPORTUNITY EMPLOYER
+## Equal Opportunity Employer
 
 HackerBay, Inc. is an equal opportunity employer. All aspects of employment including the decision to hire, promote, discipline, or discharge, will be based on merit, competence, performance, and business needs. We do not discriminate on the basis of race, color, religion, marital status, age, national origin, ancestry, physical or mental disability, medical condition, pregnancy, genetic information, gender, sexual orientation, gender identity or expression.
 
