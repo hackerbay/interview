@@ -4,9 +4,33 @@
 
 Thank you for interviewing with HackerBay. Please note this is a full time job and you’re required to work 40 hrs/week. You’ll not be legally allowed to work for anyone else when you’re working with us. 
 
+As a business development representative, you will have the unique opportunity to build our company’s brand and customer loyalty. Your skillset will be heavily utilized to expand business operations, recognize and realize potential partners and investors and develop organizational initiatives. Whether you are presenting an exciting and persuasive presentation, undertaking lead generation efforts or researching current trends to better understand the market, this position provides you with the chance to develop and strengthen your leadership, customer service, sales and communication skills. If you enjoy working with people and using creativity to educate and inform, then this job may be the perfect fit for you.
+
 You're interviewing for a Business Development Representative Role, which means: 
 - You'll write a lot of cold emails, cold call potential customers. 
 - We need people who are thick skinned. BDR's usually face a lot of rejection while they try to prospect for leads. 
+
+#### Job Responsibilities
+- Research target demographics, economic trends, customer needs and interests and other data that can be used in creating strategies for business development
+- Oversee efforts to expand lead generation through cold calling, business-to-business selling and other methods to identify - potential business prospects and assist sales professionals in acquiring new customers
+- Build relationships with existing customers, investors and partners through consistent follow up, reliable communication and frequent updates on product developments
+- Present sales pitches, product reports and other valuable data to potential prospects in a way that promotes the company brand and mission and helps the audience identify a need for the product
+- Study each product offered by the company and be able to persuasively educate and inform customers of how each works and its specifications; understand how to upsell and recommend complementary merchandise
+- Collaborate with professionals from other departments to identify product improvements, modifications or changes that could enhance its overall performance and attractiveness
+- Investigate different organizational theories and provide suggestions for ways to optimize business growth by utilizing core competencies and employee strengths
+- Mentor and train sales and customer service professionals about how to successfully market a product, create a need, close a sale and provide superior customer support
+
+#### Job Skills & Qualifications
+
+**Reqiured:**
+- Two or more years in customer service or sales positions
+- Public speaking skills
+- Excellent written communication skills (usually email)
+
+**Preferred:**
+- Experience in business-to-business selling
+
+#### Interview Rounds
 
 There are two rounds to this interview: 
  
