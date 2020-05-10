@@ -2,7 +2,7 @@
 
 # HackerBay Interview. 
 
-Thank you for interviewing with HackerBay. 
+Thank you for interviewing with HackerBay. We're currently interviewing and hiring for these roles:
 
 **Software Engineering**
 - [Full Stack Developer](/software-full-stack.md)
