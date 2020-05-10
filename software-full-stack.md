@@ -11,6 +11,48 @@ You will be working on these technologies when you’re working with us.
 * CircleCI / Travis / etc. 
 * Tests with Mocha, Chai, etc. 
 
+### Job Description
+#### Responsibilities
+
+- Ability to translate Wireframes and PSD Designs into functional web apps using HTML5, React , Node.js, and Mongo
+- Binding of UI elements to JavaScript object models
+- Creating RESTful services with Node.js
+- Architect scalable web architectures
+- Work in a cross-functional team to deliver a complete user experience
+- Create Unit and Integration tests to ensure the quality of code
+- Be responsive to change requests and feature requests
+- Write code that is cross-platform and cross-device compatible
+- Ability to wear many hats and learn new technologies quickly
+
+#### Qualifications
+- 2-3 years minimum in creating complex HTML based solutions
+- Detail oriented experience as a Web Developer creating ReactJS based solutions
+- 1-2 years with Node.js and Express
+- Ability to work both independently and in collaborative teams to communicate design and build ideas effectively
+- Experience using asynchronous RESTful services (JSON)
+
+#### Requirements
+
+- Fluent knowledge of latest HTML/CSS standards and best practices
+- Working knowledge of JavaScript and ReactJS
+- Working knowledge of Node.js and Express
+- Solid Understanding of HTTP protocol and how server-side code is processed on the client
+- Some experience with Photoshop or Sketch is a plus (creating sprites, optimizing, cutting or adjusting images)
+- Working knowledge of front end optimization and performance techniques
+- Obsession with lean, clean and organized front-end code
+- Cross-browser development and troubleshooting
+- Experience building Responsive websites for web, tablet and mobile devices
+- Eye for details is crucial
+- Able to handle multiple projects and competing deadlines
+- Good understanding of overall web design including basic usability, accessibility, industry standards, architecture, and navigation
+
+#### Additional Information
+
+- Excellent communication and organizational skills
+- Developing for mobile platforms
+- Twitter Bootstrap and LESS
+
+### Interview Rounds
 
 There are three rounds to this interview: 
  
@@ -34,7 +76,6 @@ This will be a tech screening. You'll be tested on:
  - Make sure you can screenshare on Zoom. Do not call us from Zoom Web. Download a desktop client and be ready for a call.
  
 **IMPORTANT: After your interview**: Please fill up this feedback form here: [https://airtable.com/shrEsY7wY8yCxIVYy](https://airtable.com/shrEsY7wY8yCxIVYy). This will help us improve the interview process with your ideas and suggestions.
-
 
 ### FAQ
 
