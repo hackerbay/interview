@@ -58,7 +58,7 @@ There are three rounds to this interview:
 
 **Initial Interest:**
 Email us the following: 
-- Why you want to join us vs others? 
+- Why do you want to join us vs others? 
 - Links of work you've done in the past (Can be production URL's, or GitHub links). Your role in these projects. 
 - If you're a student, tech competitions you were a  part of (eg: Imagine Cup, ICPC, Google Summer of Code, etc.)
 - Bonus: Links to open source work you've been working on. 
