@@ -78,12 +78,6 @@ This will be a tech screening. You'll be tested on:
 - Culture fit.  (~15 mins) 
 - Misc (~15 mins)
 
-**Reference Check:**
-
-You need to give us of atleast 3 people who have worked with you in the past, ideally this could be: 
-- Manger who you were reporting to in your last company. This can be managers of several companies who you've worked with in the last few years.  
-- A peer who can vouch for you. 
-
 **Important**: During this round:
  - Please be on your PC and not on your phone. Your interview will be cancelled immidiately if you call us with your phone.
  - Please also make sure you're on atleast 1 mbps internet connection and you have tested your audio and video through a Zoom test call. If your audio or video connection fails during the interview. You will be disqualified. 
@@ -91,6 +85,12 @@ You need to give us of atleast 3 people who have worked with you in the past, id
  - Make sure you can screenshare on Zoom. Do not call us from Zoom Web. Download a desktop client and be ready for a call.
  
 **IMPORTANT: After your interview**: Please fill up this feedback form here: [https://airtable.com/shrEsY7wY8yCxIVYy](https://airtable.com/shrEsY7wY8yCxIVYy). This will help us improve the interview process with your ideas and suggestions.
+
+**Reference Check:**
+
+You need to give us of atleast 3 people who have worked with you in the past, ideally this could be: 
+- Manger who you were reporting to in your last company. This can be managers of several companies who you've worked with in the last few years.  
+- A peer who can vouch for you. 
 
 ### FAQ
 
