@@ -55,6 +55,9 @@ You will be working on these technologies when you’re working with us.
 ### Interview Rounds
 
 There are three rounds to this interview: 
+
+**Initial Interest:**
+-
  
 **Round 1:** 
 - [NodeJS Task](/software-backend-task.md): Usually takes 2-3 hours to complete.
@@ -70,6 +73,12 @@ This will be a tech screening. You'll be tested on:
 - Tech Q&A (~15 mins)
 - Culture fit.  (~15 mins) 
 - Misc (~15 mins)
+
+**Reference Check:**
+
+You need to give us of atleast 3 people who have worked with you in the past, ideally this could be: 
+- Manger who you were reporting to in your last company. This can be managers of several companies who you've worked with in the last few years.  
+- A peer who can vouch for you. 
 
 **Important**: During this round:
  - Please be on your PC and not on your phone. Your interview will be cancelled immidiately if you call us with your phone.
