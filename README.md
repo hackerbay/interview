@@ -10,4 +10,7 @@ Thank you for interviewing with HackerBay. We're currently interviewing and hiri
 **Sales**
 - [Business Development Rep](/sales-bdr.md)
 
+**Marketing**
+- [Content Marketing](/content-marketing.md)
+
 
