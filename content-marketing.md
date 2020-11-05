@@ -23,21 +23,11 @@ You're interviewing for a Business Development Representative Role, which means:
 There are two rounds to this interview: 
  
 **Round 1:** 
-- Please expect you will take 2-3 days to finish this round. This round is the most important. 
-- Review Fyipe https://fyipe.com
-- Who do you think this product is for? Who will you sell this product to? 
-- How will you reach this customer? 
-  - Where will you look for them? 
-  - How will you find their emails / phone numbers? 
-- How will you qualify this customer? 
-- Write 3 cold email templates.
-  - We're sure you constantly get pinged by BDR's all the time by email. How many emails do you even open and read? We're looking for someone who can write an email template which actually gets noticed & read. 
-  - There are cold email templates around the web. Most of them do not work, please do not send us those. We need you to think and write one up like you would in real world. 
-  
-Please email us these tasks to interview@hackerbay.io  
+- Please write a sample blog post on any topic related to SRE / DevOps + Fyipe and send it to interviews@hackerbay.io 
+- If you have any existing blogs with good traction (like medium posts / substack ). Please send it to interviews@hackerbay.io 
 
 **Round 2:** A call with the VP of Sales. Please keep 45 mins free for this call. 
-- BDR / Sales Q&A (~15 mins)
+- Content + Tech + Marketing Q&A (~15 mins)
 - Culture fit.  (~15 mins) 
 - Misc (~15 mins)
 
