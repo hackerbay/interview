@@ -23,7 +23,7 @@ You're interviewing for a Business Development Representative Role, which means:
 There are two rounds to this interview: 
  
 **Round 1:** 
-- Please write a sample blog post on any topic related to SRE / DevOps + Fyipe and send it to interviews@hackerbay.io 
+- Please write a sample blog post (~1000 words) on any topic related to SRE / DevOps + Fyipe and send it to interviews@hackerbay.io 
 - If you have any existing blogs with good traction (like medium posts / substack ). Please send it to interviews@hackerbay.io 
 
 **Round 2:** A call with the VP of Sales. Please keep 45 mins free for this call. 
