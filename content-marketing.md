@@ -72,7 +72,7 @@ Email us at interviews@hackerbay.io
 
 **When will I know if I'm selected?**
 
-It depends on you. As soon as you finish both the rounds. We'll have 2 Skype calls next business day and we'll let you know about our decision on the same day. Date of Joining depends on your notice period with your current place of work. We usually want you join us as soon as possible. If you don't have a notice period, you can join as soon as we make a decision and start the onboarding process. 
+It depends on you. As soon as you send the blog post. We'll have calls next business day and we'll let you know about our decision on the same day. Date of joining depends on your notice period with your current place of work. We usually want you join us as soon as possible. If you don't have a notice period, you can join as soon as we make a decision and start the onboarding process. 
 
 **Can I know more about the company?**
 
