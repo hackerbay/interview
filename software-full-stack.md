@@ -108,7 +108,7 @@ You need to give us of atleast 3 people who have worked with you in the past, id
 
 **What happens if I'm rejected?**
 
-If you're rejected. The issues and code you've worked on belongs to the open source project https://github.com/oneuptime/oneuptime. your code belongs to the community and is MIT licensed and is free for anyone to fork and use. You can continue contriuting if you like and pick up more issues if you're interested, a lot of developers who work with us have improved their skills this way before joining us. Keep contributing if you're interested, and be proud you're creating an open-source SRE and DevSecOps solution for the world to use. 
+If you're rejected, the issues and code you've worked on belongs to the open source project https://github.com/oneuptime/oneuptime. your code belongs to the community and is MIT licensed and is free for anyone to fork and use. You can continue contriuting if you like and pick up more issues if you're interested, a lot of developers who work with us have improved their skills this way before joining us. Keep contributing if you're interested, and be proud you're creating an open-source SRE and DevSecOps solution for the world to use. 
 
 **Where are you based?**
 
