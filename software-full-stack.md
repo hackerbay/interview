@@ -66,7 +66,7 @@ Email us the following:
 - If you're a student, tech competitions you were a  part of (eg: Imagine Cup, ICPC, Google Summer of Code, etc.)
 - Bonus: Links to open source work you've been working on. 
 
-**Round 1: NodeJS ** 
+**Round 1: NodeJS** 
  - Our interview process is quite unique. It tells us how you'll be working with us in the real-world situation and as a part of the team. 
  - Please email us your GitHub username at interviews@hackerbay.io and ask for it to be a part of https://github.com/oneuptime/ organization. 
  - Please head over to https://github.com/oneuptime/oneuptime/issues
@@ -78,7 +78,7 @@ Email us the following:
  - If we request changes on your PR, we do not mean to reject you. Its an opportunity for us to learn about how you respond to those comments and how it feels to work together. 
  - Once _both_ of your issues are merged in successfully. Consider this round done. You should get a confirmation from us via email. 
 
-**Round 2: React ** 
+**Round 2: React** 
  - Please head over to https://github.com/oneuptime/oneuptime/issues
  - Please assign yourself _2 issues_ that you could work on. Please select anything that's labeled "good first issue" 
  - Please make sure these issues are backend related and do not ask you to write frontend code. If you're not able to find an issue that you can work on, please email us at interviews@hackerbay.io 
