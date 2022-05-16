@@ -5,17 +5,19 @@
 Thank you for interviewing with HackerBay. Please note this is a full time job and you’re required to work 40 hrs/week. You’ll not be legally allowed to work for anyone else when you’re working with us. 
 
 You will be working on these technologies when you’re working with us. 
+* Typescript
 * ReactJS and NodeJS
 * Docker 
 * Kubernetes
 * GitLab CI / Jenkins
 * Tests with Mocha, Chai, Puppeteer, Jest etc. 
+* Postgres DB
 
 ### Job Description
 #### Responsibilities
 
-- Ability to translate Wireframes and PSD Designs into functional web apps using HTML5, React , Node.js, and Mongo
-- Binding of UI elements to JavaScript object models
+- Ability to translate Wireframes and PSD Designs into functional web apps using HTML5, React , Node.js, and Postgres
+- Binding of UI elements to Typescript object models
 - Creating RESTful services with Node.js
 - Architect scalable web architectures
 - Work in a cross-functional team to deliver a complete user experience
@@ -58,23 +60,32 @@ There are three rounds to this interview:
 
 **Initial Interest:**
 Email us the following: 
+
 - Why do you want to join us vs others? 
 - Links of work you've done in the past (Can be production URL's, or GitHub links). Your role in these projects. 
 - If you're a student, tech competitions you were a  part of (eg: Imagine Cup, ICPC, Google Summer of Code, etc.)
 - Bonus: Links to open source work you've been working on. 
 
-**Round 1:** 
-- [NodeJS Task](/software-backend-task.md): Usually takes 2-3 hours to complete.
-- [ReactJS Task](/software-frontend-task.md): Usually takes 2-3 hours to complete.
+**Round 1: NodeJS ** 
+ - Our interview process is quite unique. It tells us how you'll be working with us in the real-world situation and as a part of the team. 
+ - Please email us your GitHub username at interviews@hackerbay.io and ask for it to be a part of https://github.com/oneuptime/ organization. 
+ - Please head over to https://github.com/oneuptime/oneuptime/issues
+ - Please assign yourself _2 issues_ that you could work on. Please select anything that's labeled "good first issue" 
+ - Please make sure these issues are backend related and do not ask you to write frontend code. If you're not able to find an issue that you can work on, please email us at interviews@hackerbay.io 
+ - Timeline: 7 days. The task shouldn't take this long. We just like to give you more breathing room when you're working on the issues. It should ideally take about 2-3 hours per issue. 
+ - Branch out from master, and work on your issue. Please create a Pull Request when done. 
+ - Once you create a PR, one of our team members will review it and will either merge in it or request changes and leave a review. Please work on the review and re-request review. We will do this until your PR is merged in. 
+ - If we request changes on your PR, we do not mean to reject you. Its an opportunity for us to learn about how you respond to those comments and how it feels to work together. 
+ - Once _both_ of your issues are merged in successfully. Consider this round done. You should get a confirmation from us via email. 
 
-When you’re done, send us the GitHub link for both of these tasks at interviews@hackerbay.io
+**Round 2: React ** 
+ - Please head over to https://github.com/oneuptime/oneuptime/issues
+ - Please assign yourself _2 issues_ that you could work on. Please select anything that's labeled "good first issue" 
+ - Please make sure these issues are backend related and do not ask you to write frontend code. If you're not able to find an issue that you can work on, please email us at interviews@hackerbay.io 
+ - Follow the exact same steps that you've done for the Backend Round (Round 1)
 
-**Round 2:** Please keep 2-3 hours free for this call. 
-This will be a tech screening. You'll be tested on: 
-- Live Programming & Algorithm Design (2-3 hrs of programming) 
-
-**Round 3:** A call with the CEO. Please keep 45 mins free for this call. 
-- Tech Q&A (~15 mins)
+**Round 3:** A call with the CEO. Please keep 1 hour free for this call. 
+- Tech Q&A (~30 mins)
 - Culture fit.  (~15 mins) 
 - Misc (~15 mins)
 
@@ -94,6 +105,11 @@ You need to give us of atleast 3 people who have worked with you in the past, id
 
 ### FAQ
 
+
+**What happens if I'm rejected?**
+
+If you're rejected. The issues and code you've worked on belongs to the open source project https://github.com/oneuptime/oneuptime. your code belongs to the community and is MIT licensed and is free for anyone to fork and use. You can continue contriuting if you like and pick up more issues if you're interested, a lot of developers who work with us have improved their skills this way before joining us. Keep contributing if you're interested, and be proud you're creating an open-source SRE and DevSecOps solution for the world to use. 
+
 **Where are you based?**
 
 Technically, NYC. Honestly, it doesn't matter. You can work out of anywhere you like. This job is remote.  
@@ -104,7 +120,7 @@ Yes. We're NOT looking for part time employees.
 
 **What are the minimum requirements to work at HackerBay?**
 
-An Ubuntu or a MacOS machine with atleast 8 GB of RAM and 2 mbps internet connectivity at all times. If you do not have a machine reliable enough to work that meets these requirements. Please do not apply. 
+An Ubuntu or a MacOS machine with atleast 16 GB of RAM and 10 mbps internet connectivity at all times. If you do not have a machine reliable enough to work that meets these requirements. Please do not apply. 
 
 **Can I work with you if I'm a student?**
 
