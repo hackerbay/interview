@@ -66,6 +66,10 @@ Email us the following:
 - If you're a student, tech competitions you were a  part of (eg: Imagine Cup, ICPC, Google Summer of Code, etc.)
 - Bonus: Links to open source work you've been working on. 
 
+**Before you begin:**
+- Join slack community listed on https://github.com/oneuptime/oneuptime
+- If you have any questions, you can ping @simlarsen
+
 **Round 1: NodeJS** 
  - Our interview process is quite unique. It tells us how you'll be working with us in the real-world situation and as a part of the team. 
  - Please email us your GitHub username at interviews@hackerbay.io and ask for it to be a part of https://github.com/oneuptime/ organization. 
