@@ -72,7 +72,7 @@ Email us the following:
 
 **Round 1: NodeJS** 
  - Our interview process is quite unique. It tells us how you'll be working with us in the real-world situation and as a part of the team. 
- - Please email us your GitHub username at interviews@hackerbay.io and ask for it to be a part of https://github.com/oneuptime/ organization. 
+ - Please **fork** the gitHub repo https://github.com/oneuptime/oneuptime. 
  - Please head over to https://github.com/oneuptime/oneuptime/issues
  - Please assign yourself _2 issues_ that you could work on. Please select anything that's labeled "good first issue" 
  - Please make sure these issues are backend related and do not ask you to write frontend code. If you're not able to find an issue that you can work on, please email us at interviews@hackerbay.io 
