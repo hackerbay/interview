@@ -75,7 +75,7 @@ Email us the following:
  - Please **fork** the gitHub repo https://github.com/oneuptime/oneuptime. 
  - Please head over to https://github.com/oneuptime/oneuptime/issues
  - Please assign yourself _2 issues_ that you could work on. Please select anything that's labeled "good first issue". If you cannot find issues on GitHub. Please ping @simlarsen on Slack!
- - Please make sure these issues are backend related and do not ask you to write frontend code. If you're not able to find an issue that you can work on, please email us at interviews@hackerbay.io 
+ - Please make sure these issues are backend related and do not ask you to write frontend code.
  - Timeline: 7 days. The task shouldn't take this long. We just like to give you more breathing room when you're working on the issues. It should ideally take about 2-3 hours per issue. 
  - Branch out from master, and work on your issue. Please create a Pull Request when done. Please note, your work should have tests written for it, if appropriate. 
  - Once you create a PR, one of our team members will review it and will either merge in it or request changes and leave a review. Please work on the review and re-request review. We will do this until your PR is merged in. 
@@ -85,7 +85,7 @@ Email us the following:
 **Round 2: React** 
  - Please head over to https://github.com/oneuptime/oneuptime/issues
  - Please assign yourself _2 issues_ that you could work on. Please select anything that's labeled "good first issue". If you cannot find issues on GitHub. Please ping @simlarsen on Slack!
- - Please make sure these issues are react related and do not ask you to write frontend code. If you're not able to find an issue that you can work on, please email us at interviews@hackerbay.io 
+ - Please make sure these issues are react related and do not ask you to write frontend code.
  - Follow the exact same steps that you've done for the Backend Round (Round 1)
 
 **Round 3:** A call with the CEO. Please keep 1 hour free for this call. 
