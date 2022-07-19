@@ -74,7 +74,7 @@ Email us the following:
  - Our interview process is quite unique. It tells us how you'll be working with us in the real-world situation and as a part of the team. 
  - Please **fork** the gitHub repo https://github.com/oneuptime/oneuptime. 
  - Please head over to https://github.com/oneuptime/oneuptime/issues
- - Please assign yourself _2 issues_ that you could work on. Please select anything that's labeled "good first issue" 
+ - Please assign yourself _2 issues_ that you could work on. Please select anything that's labeled "good first issue". If you cannot find issues on GitHub. Please ping @simlarsen on Slack!
  - Please make sure these issues are backend related and do not ask you to write frontend code. If you're not able to find an issue that you can work on, please email us at interviews@hackerbay.io 
  - Timeline: 7 days. The task shouldn't take this long. We just like to give you more breathing room when you're working on the issues. It should ideally take about 2-3 hours per issue. 
  - Branch out from master, and work on your issue. Please create a Pull Request when done. Please note, your work should have tests written for it, if appropriate. 
@@ -84,7 +84,7 @@ Email us the following:
 
 **Round 2: React** 
  - Please head over to https://github.com/oneuptime/oneuptime/issues
- - Please assign yourself _2 issues_ that you could work on. Please select anything that's labeled "good first issue" 
+ - Please assign yourself _2 issues_ that you could work on. Please select anything that's labeled "good first issue". If you cannot find issues on GitHub. Please ping @simlarsen on Slack!
  - Please make sure these issues are react related and do not ask you to write frontend code. If you're not able to find an issue that you can work on, please email us at interviews@hackerbay.io 
  - Follow the exact same steps that you've done for the Backend Round (Round 1)
 
